@@ -42,16 +42,6 @@ Our Expert Advisors use rule-based algorithms to execute trades automatically. B
 - Real-time AI-enhanced predictions (using OpenAI)
 
 
-
-## 🎓 Forex Education with Zegeai
-
-We don’t just sell tools — we help you learn:
-- Free tutorials on [YouTube](https://youtube.com/zegeai)
-- Telegram group support
-- Tips and updates via [Facebook](https://facebook.com/zegeai)
-
-
-
 ## 🌐 Visit Zegeai.com
 
 👉 Check out our full catalog of tools and resources at [https://zegeai.com](https://zegeai.com)
