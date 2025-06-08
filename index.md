@@ -1,5 +1,8 @@
 
 # 🚀 Ultimate Guide to Zegeai Forex Tools (Indicators & EAs)
+![zegeai-pinterest](https://github.com/user-attachments/assets/97d78099-185d-4d0c-b91b-e0020679ffbb)
+
+
 
 Welcome to this guide from **[Zegeai.com](https://zegeai.com)**  your trusted source for high-quality Forex indicators, EAs (Expert Advisors), and trading education.
 
