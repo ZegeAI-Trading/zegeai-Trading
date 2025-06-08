@@ -8,7 +8,7 @@ Welcome to this guide from **[Zegeai.com](https://zegeai.com)**  your trusted so
 
 Whether you're a beginner or an experienced trader, Zegeai offers powerful, ready-to-use tools to enhance your MetaTrader 4 and 5 trading strategies.
 
----
+
 
 ## 📊 What Are Forex Indicators?
 
@@ -19,7 +19,7 @@ Common types of indicators include:
 - Momentum indicators (e.g., RSI, Stochastic)
 - Volatility indicators (e.g., Bollinger Bands)
 
----
+
 
 ## 💡 What Makes Zegeai Tools Different?
 
@@ -31,9 +31,6 @@ At Zegeai, we focus on quality and usability. Our tools are:
 - ✅ **Affordable**
 - ✅ **Backed by support**
 
-![Sample Zegeai Indicator](./images/indicator-sample.png)
-
----
 
 ## 🧠 Zegeai Expert Advisors (EAs)
 
@@ -44,7 +41,7 @@ Our Expert Advisors use rule-based algorithms to execute trades automatically. B
 - Tested strategies
 - Real-time AI-enhanced predictions (using OpenAI)
 
----
+
 
 ## 🎓 Forex Education with Zegeai
 
@@ -53,7 +50,7 @@ We don’t just sell tools — we help you learn:
 - Telegram group support
 - Tips and updates via [Facebook](https://facebook.com/zegeai)
 
----
+
 
 ## 🌐 Visit Zegeai.com
 
@@ -61,7 +58,7 @@ We don’t just sell tools — we help you learn:
 
 We recommend starting with our **trend-following indicator pack** or exploring our **auto-trading EAs** if you're ready to scale.
 
----
+
 
 ## 🔗 Connect with Us
 
@@ -69,6 +66,5 @@ We recommend starting with our **trend-following indicator pack** or exploring o
 - 📺 Pinterest: [https://www.pinterest.com/ZegeAI/](https://www.pinterest.com/ZegeAI/)
 - 📘 Facebook: [https://facebook.com/zegeai](https://facebook.com/zegeai)
 
----
 
 © Zegeai.com – Trade smarter, not harder.
