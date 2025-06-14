@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Discover premium MT4 Forex Expert Advisors (EAs) at ZegeAI.com. High-quality, affordable EAs to boost your automated trading success." />
+  <meta name="keywords" content="MT4 Expert Advisors, Forex EAs, premium forex robots, affordable MT4 EAs, automated trading, cheap forex EAs, ZegeAI" />
+  <meta name="author" content="ZegeAI" />
+  <title>Premium MT4 Forex Expert Advisors | Affordable & Powerful EAs by ZegeAI</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    .ea-card img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 10px;
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
+    .ea-card img:hover {
+      transform: scale(1.05);
+    }
+    .ea-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 0.6rem;
+      color: #0056b3;
+      min-height: 3rem;
+    }
+    header, footer {
+      background-color: #002c6f;
+      color: #fff;
+    }
+    header h1 {
+      font-weight: 800;
+      letter-spacing: 1px;
+    }
+    .page-header {
+      text-align: center;
+      margin: 2rem auto 1rem;
+      color: #002c6f;
+    }
+    .intro-text {
+      margin: 0 auto 3rem;
+      font-size: 1.1rem;
+    }
+    footer a {
+      color: #66b2ff;
+      text-decoration: underline;
+    }
+    @media (max-width: 575.98px) {
+      .ea-title {
+        font-size: 1rem;
+        min-height: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="py-4">
+    <div class="container text-center">
+      <h1>Premium MT4 Forex Expert Advisors</h1>
+      <p class="lead mb-0">High-Performance, Affordable Automated Trading Bots from ZegeAI.com</p><br>
+       <a href="https://zegeai.com" target="_blank" rel="noopener" class="btn btn-primary btn-lg">Shop Premium Forex EAs</a>
+    </div>
+  </header>
+
+  <main class="container py-5">
+    <section class="intro-text text-center">
+      <p>
+        At ZegeAI.com, we specialize in providing **top-tier MT4 Forex Expert Advisors (EAs)** that empower traders to automate their strategies with confidence. 
+        Unlike other stores that overcharge for similar tools, our EAs offer **premium quality at unbeatable prices**. 
+        Discover the perfect blend of affordability and advanced technology — designed to optimize your trading performance with minimal effort.
+      </p>
+      <p>
+        Whether you’re a beginner or a seasoned trader, our carefully curated selection of EAs helps you stay ahead of the market while keeping your investment low. 
+        Shop with us and unlock the power of automated trading without breaking the bank!
+      </p>
+    </section>
+
+    <section>
+      <h2 class="page-header">Featured MT4 Expert Advisors</h2>
+      <p class="text-center mb-4">Explore our popular Forex robots designed for accuracy, speed, and reliability.</p>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+        
+        <div class="col">
+          <a href="https://zegeai.com/product/gold-scalping-premium-ai-ea-the-best-ai-forex-trading-solution/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/03/gold_scalping_ai_ea.png" alt="Gold Scalping Premium AI EA - Powerful Scalping Bot" />
+              <div class="ea-title">Gold Scalping Premium AI EA</div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a href="https://zegeai.com/product/apex-ea-mt4-v3-0-advanced-price-action-forex-robot-for-safe-consistent-trading/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/Apex-EA-MT4-v3.0-Download.png" alt="Apex EA MT4 v3.0 - Advanced Price Action Forex Robot" />
+              <div class="ea-title">Apex EA MT4 v3.0</div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a href="https://zegeai.com/product/amazing-brain-mt4-ea-build-1425-intelligent-forex-robot-for-profitable-auto-trading/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/Amazing-Brain-MT4.png" alt="Amazing Brain MT4 EA - Intelligent Forex Robot" />
+              <div class="ea-title">Amazing Brain MT4 EA (Build 1425+)</div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a href="https://zegeai.com/product/ai-nox-ea-mt4-v1-1-advanced-forex-robot-for-smart-trend-trading-build-1421/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/AI-NoX-EA-MT4-V1.1-1421.png" alt="AI NoX EA MT4 V1.1 - Advanced Forex Robot" />
+              <div class="ea-title">AI NoX EA MT4 V1.1</div>
+            </div>
+          </a>
+        </div>
+
+        
+        <div class="col">
+          <a href="https://zegeai.com/product/quantum-algo-trading-mt4-ea-smart-algorithmic-forex-robot-for-high-precision-trading/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/Quantum-Algo-Trading-EA.png" alt="AI NoX EA MT4 V1.1 - Advanced Forex Robot" />
+              <div class="ea-title">Quantum Algo Trading MT4 EA</div>
+            </div>
+          </a>
+        </div>
+        
+       <div class="col">
+          <a href="https://zegeai.com/product/advanced-ai-powered-forex-ea-for-mt4-smart-auto-trading-robot-with-setfiles-build-1422/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/AI-NeuroX-EA-MT4-v1.9.png" alt="AI NoX EA MT4 V1.1 - Advanced Forex Robot" />
+              <div class="ea-title">AI NeuroX EA MT4 v1.9</div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a href="https://zegeai.com/product/ai-hedge-funds-forex-ea-smart-risk-diversification-profitable-strategy-for-mt4/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/04/AI-Hedge-Funds-EA_fix.png" alt="AI NoX EA MT4 V1.1 - Advanced Forex Robot" />
+              <div class="ea-title">AI Hedge Funds Forex EA</div>
+            </div>
+          </a>
+        </div>
+
+         <div class="col">
+          <a href="https://zegeai.com/product/bitcoin-scalp-pro-ea-v1-8-for-mt4-no-dll-setfiles-download/" target="_blank" class="text-decoration-none">
+            <div class="ea-card">
+              <img src="https://zegeai.com/wp-content/uploads/2025/03/bitcoin-scalp-pro.png" alt="AI NoX EA MT4 V1.1 - Advanced Forex Robot" />
+              <div class="ea-title">Bitcoin Scalp Pro EA v1.8</div>
+            </div>
+          </a>
+        </div>
+
+
+      </div>
+    </section>
+
+    <section class="mt-5">
+      <h2 class="page-header">Why Choose ZegeAI’s Forex EAs?</h2>
+      <ul>
+        <li><strong>Affordable Pricing:</strong> Our EAs deliver premium performance without the premium price tag, saving you money compared to other stores.</li>
+        <li><strong>Tested & Trusted:</strong> All our products are rigorously tested in real market conditions to ensure reliability.</li>
+        <li><strong>Easy to Use:</strong> Designed for traders of all experience levels — quick setup and detailed instructions included.</li>
+        <li><strong>Regular Updates:</strong> Continuous improvements and support to keep your EAs running at peak performance.</li>
+        <li><strong>Secure & Instant Delivery:</strong> Download your purchased EAs immediately with safe, secure checkout.</li>
+      </ul>
+    </section>
+
+    <section class="mt-5 text-center">
+      <h2>Start Your Automated Trading Journey Today</h2>
+      <p>Visit <a href="https://zegeai.com" target="_blank" rel="noopener" style="color:#0056b3; text-decoration:underline;">ZegeAI.com</a> to explore our full range of premium MT4 Forex Expert Advisors and get the best deals now.</p>
+    </section>
+  </main>
+
+  <footer class="py-4 text-center">
+    <div class="container">
+      <p class="mb-1">&copy; 2025 ZegeAI.com – Premium Forex Trading Tools</p>
+      <p>Follow us on <a href="https://web.facebook.com/zegeai" target="_blank" rel="noopener" style="color:#66b2ff;">Facebook</a> | <a href="https://www.pinterest.com/ZegeAI/" target="_blank" rel="noopener" style="color:#66b2ff;">Pinterest</a> </p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
